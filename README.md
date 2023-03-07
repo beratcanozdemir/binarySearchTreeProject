@@ -1,0 +1,1 @@
+## [Patika](https://www.patika.dev) Veri Yapıları ve Algoritmalar Eğitimi kapsamında yaptığım Binary Search Tree Projesi. İçerisinde bir adet README, bir adet de proje dosyası bulunmaktadır.
